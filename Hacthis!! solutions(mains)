@@ -1,0 +1,18 @@
+main1
+view page source then ctrl+f password you will see password(out) and username(in)
+
+main2
+use main1 steps but you will see hexadcimals and see the words in >resu(username)< and >ssap(password<
+
+main3
+view page source, ctrl+f java and you will se <script type='text/javascript'> $(function(){ $('.level-form').submit(function(e){ if
+(document.getElementById('user').value == 'heaven' && document.getElementById('pass').value == 'hell')
+you'll see that pass=heaven and username=hell
+
+main4
+view page source(ctrl+u),then ctrl+f and you'll see <input type="Password" name="pass" id="pass" autocomplete="off"><br>
+<input type="hidden" name="passwordfile" value="../../extras/ssap.xml"> 
+so add the /extras/ssap.xml at the back of the main level page url link. you will see <user><name>Admin</name><username>999</username><password>911</password>
+</user>. So, the password is 911 and the username is 999.
+
+main5
