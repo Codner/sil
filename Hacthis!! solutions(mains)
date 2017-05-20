@@ -2,7 +2,7 @@ main1
 view page source then ctrl+f password you will see password(out) and username(in)
 
 main2
-use main1 steps but you will see hexadcimals and see the words in >resu(username)< and >ssap(password<
+use main1 steps but you will see hexadcimals and see the words in >resu(username)< and >ssap(password)<
 
 main3
 view page source, ctrl+f java and you will se <script type='text/javascript'> $(function(){ $('.level-form').submit(function(e){ if
